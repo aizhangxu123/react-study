@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Reactzx by zhangxu
+          Learn Reactzx by zhangxu123
         </a>
       </header>
     </div>
